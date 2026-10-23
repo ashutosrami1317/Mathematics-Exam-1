@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # Loan Applications --- Statistical Analysis
 
 ### Python \| Statistics \| Probability \| Data Visualization \| Linear Algebra
@@ -215,6 +215,4 @@ Purpose: Educational practical assignment in Python and statistics
 
 ------------------------------------------------------------------------
 
-::: {align="center"}
 **Thank you for viewing this project!**
-:::
